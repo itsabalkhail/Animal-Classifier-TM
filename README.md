@@ -3,7 +3,7 @@
 ## 📖 Project Overview
 This project implements a deep learning-based image classification system using TensorFlow/Keras to classify animals (Horses, Dogs, Cats). The model was trained using Google's Teachable Machine and deployed using Python for real-time image classification with confidence scoring.
 
-![Teachable Machine Training](https://i.imgur.com/example1.png)
+![Teachable Machine Training](https://github.com/itsabalkhail/Animal-Classifier-TM/blob/main/Screenshot%202025-07-07%20102828.png?raw=true)
 *Figure 1: Model training interface showing three classes with sample images*
 
 ![Classification Results](https://i.imgur.com/example2.png)
