@@ -6,7 +6,7 @@ This project implements a deep learning-based image classification system using 
 ![Teachable Machine Training](https://github.com/itsabalkhail/Animal-Classifier-TM/blob/main/Screenshot%202025-07-07%20102828.png?raw=true)
 *Figure 1: Model training interface showing three classes with sample images*
 
-![Classification Results](https://i.imgur.com/example2.png)
+![Classification Results](https://github.com/itsabalkhail/Animal-Classifier-TM/blob/main/Screenshot%202025-07-07%20102850.png?raw=true)
 *Figure 2: Real-time classification results showing confidence scores*
 
 ## 🎯 Technical Features
