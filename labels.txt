@@ -1,0 +1,3 @@
+0 Horses
+1 Dogs
+2 Cats
